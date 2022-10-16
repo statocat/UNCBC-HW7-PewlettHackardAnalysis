@@ -19,4 +19,4 @@ This analysis has answered the questions of how many employees Pewlett-Hackard s
 
 * The combined salaries of imminent retirees across departments as part of budget planning for hiring replacements
 
-* A broader birth-date filter for the mentorship eligibilty table, given that only 0.5% of Pewlett-Hackard's employees were identified as potentially eligible for the mentorship program. Pewlett-Hackars should consider whether this number of employees is really adequate to absorb the knowledge of over 70,000 imminent retirees.
+* A broader birth-date filter for the mentorship eligibilty table, given that only 0.5% of Pewlett-Hackard's employees were identified as potentially eligible for the mentorship program. Pewlett-Hackard should consider whether this number of employees is really adequate to absorb the knowledge of over 70,000 imminent retirees.
