@@ -39,3 +39,17 @@ emp_no int pk FK >- Employees.emp_no
 title varchar
 from_date date
 to_date date
+
+Retirement_Info
+-
+emp_no int pk FK >- Dept_Emp.emp_no
+first_name varchar FK >- Employees.first_name
+last_name varchar FK >- Employees.last_name
+
+Dept_Retirees
+-
+emp_no int pk FK >- Dept_Emp.emp_no
+first_name varchar FK >- Retirement_Info.first_name
+last_name varchar FK >- Retirement_Info.last_name
+dept_no FK >- Dept_Emp.dept_no
+dept_name varchar FK >- Departments.dept_name
